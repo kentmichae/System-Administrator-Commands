@@ -1,4 +1,6 @@
-# System-Administrator-Commands
+# System-Administrator-Use-Cases
+
+The repository is designed as rapid guide on Red Hat Enterprise Linux system administrator use cases for versions beyond 8.0 release. Any administrator or new team member with a foundational understanding of the Linux command line will learn key tasks to administer a single Red Hat Enterprise Linux System.
 
 ## Access Systems
 
@@ -37,3 +39,12 @@
 
 
 ## Manage Networking
+
+
+## Manage Network Security
+
+
+## Run Containers
+
+
+
