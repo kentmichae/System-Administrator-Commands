@@ -97,15 +97,23 @@ The repository is designed as rapid guide on Red Hat Enterprise Linux system adm
 
 ## Control Access to Files
 
-Change File and Directory Permissions
-    • Change Permissions with the Symbolic Method
-    • Change Permissions with the Octal Method
-Change File and Directory User or Group Ownership    
-Manage Default Permissions and File Access
-    • Special Permissions
-    • Default File Permissions
-        - Effect of umask Utility on Permisions
-    • Changing Default Permissions
+### Change File and Directory Permissions
+
+#### Change Permissions with the Symbolic Method
+
+#### Change Permissions with the Octal Method
+
+### Change File and Directory User or Group Ownership    
+
+### Manage Default Permissions and File Access
+
+#### Special Permissions
+    
+#### Default File Permissions
+
+##### Effect of umask Utility on Permisions
+
+#### Changing Default Permissions
   
 
 ## Manage SELinux Security
