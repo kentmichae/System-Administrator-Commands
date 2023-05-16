@@ -21,20 +21,31 @@ The repository is designed as rapid guide on Red Hat Enterprise Linux system adm
 
 ## Manage Files from the Command Line
 
-Linux File System Hierarchy Concepts.
-    • Manage Links Between Files
-        • Create Hard Links
-            - Limitations on Hard Links
-        • Create symbolic Links
+### Linux File System Hierarchy Concepts.
 
-Match File Names with Shell Expansions.
-    • Command-line Expansions
-        • Pathname Expansion and Pattern Matching
-            - Basic Expansion
-            - Title Expansion
-            - Variable Expansion
-            - Command Substitution
-    • Protecting Arguments from Expansion
+#### Manage Links Between Files
+        
+##### Create Hard Links
+
+###### Limitations on Hard Links
+
+##### Create symbolic Links
+
+### Match File Names with Shell Expansions.
+
+#### Command-line Expansions
+
+##### Pathname Expansion and Pattern Matching
+            
+###### Basic Expansion
+
+###### Title Expansion
+
+###### Variable Expansion
+
+####### Command Substitution
+
+###### Protecting Arguments from Expansion
 
 
 ## Manage Local Users and Groups
